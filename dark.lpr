@@ -10,7 +10,7 @@ uses
   athreads,
   {$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, main, TitleBar
+  Forms, main, {TitleBar,} TitleBarStatic
   { you can add units after this };
 
 {$R *.res}

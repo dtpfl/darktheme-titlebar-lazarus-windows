@@ -5,7 +5,7 @@ unit main;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, TitleBar;
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, TitleBarStatic;
 
 type
 

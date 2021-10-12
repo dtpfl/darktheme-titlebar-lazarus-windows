@@ -37,7 +37,7 @@ begin
       begin
 
         try
-          //DwmSetWindowAttribute(frm.Handle, DWMWA_USE_IMMERSIVE_DARK_MODE, @isDarkMode, sizeof(isDarkMode));
+          DwmSetWindowAttribute(frm.Handle, DWMWA_USE_IMMERSIVE_DARK_MODE, @isDarkMode, sizeof(isDarkMode));
         except
             ShowMessage('mmm');
         end;
