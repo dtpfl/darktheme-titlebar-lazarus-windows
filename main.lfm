@@ -1,0 +1,19 @@
+object Form1: TForm1
+  Left = 345
+  Height = 240
+  Top = 811
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  OnActivate = FormActivate
+  OnCreate = FormCreate
+  LCLVersion = '2.3.0.0'
+  object Label1: TLabel
+    Left = 96
+    Height = 15
+    Top = 59
+    Width = 34
+    Caption = 'Label1'
+  end
+end
