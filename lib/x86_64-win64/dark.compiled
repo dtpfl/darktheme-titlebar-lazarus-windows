@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\fpcupdeluxe\fpc\bin\x86_64-win64\fpc.exe" Date="1397329285"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\Users\Daniel\Documents\GitHub\darktheme\lib\x86_64-win64 -FuC:\Users\Daniel\Documents\GitHub\Lazarus_trunk\lcl\units\x86_64-win64\win32 -FuC:\Users\Daniel\Documents\GitHub\Lazarus_trunk\lcl\units\x86_64-win64 -FuC:\Users\Daniel\Documents\GitHub\Lazarus_trunk\components\freetype\lib\x86_64-win64 -FuC:\Users\Daniel\Documents\GitHub\Lazarus_trunk\components\lazutils\lib\x86_64-win64 -FuC:\Users\Daniel\Documents\GitHub\Lazarus_trunk\packager\units\x86_64-win64 -FuC:\Users\Daniel\Documents\GitHub\darktheme\ -FUC:\Users\Daniel\Documents\GitHub\darktheme\lib\x86_64-win64\ -FEC:\Users\Daniel\Documents\GitHub\darktheme\ -oC:\Users\Daniel\Documents\GitHub\darktheme\dark.exe -dLCL -dLCLwin32 dark.lpr"/>
-</CONFIG>
