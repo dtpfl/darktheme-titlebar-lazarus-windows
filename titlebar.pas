@@ -8,8 +8,7 @@ uses
   Windows,
   Forms,
   Graphics,
-  Dialogs,
-  LCLExceptionStackTrace;
+  Dialogs;
 
 procedure FormTest(frm: TForm);
 
