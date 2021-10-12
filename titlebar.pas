@@ -20,7 +20,7 @@ const
   DWMWA_USE_IMMERSIVE_DARK_MODE_BEFORE_20H1: Integer = 19;
   DWMWA_USE_IMMERSIVE_DARK_MODE: Integer = 20;
 type
-  TDwmSetWindowAttribute = function(hwnd: HWND; dwAttribute: DWORD; pvAttribute: Pointer; cbAttribute: DWORD): HRESULT; stdcall;
+  TDwmSetWindowAttribute = function(hwnd: HWND; dwAttribute: DWORD; pvAttribute: Pointer; cbAttribute: DWORD): HRESULT; stdcall; //https://docs.microsoft.com/en-us/windows/win32/api/dwmapi/nf-dwmapi-dwmsetwindowattribute
 
 var
   hDWMDLL: Cardinal;
